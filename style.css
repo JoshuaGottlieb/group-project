@@ -44,3 +44,10 @@ main h2 {
 .stans-styles {
     background-color:lightgray;
 }
+
+.my-style {
+    color: #478CFF;
+    background-color: #4B4B4B;
+    transform: scaleX(-1);
+    transform: scaleY(-1);
+}
